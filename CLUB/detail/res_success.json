@@ -1,6 +1,6 @@
 {
     "status": true,
-    "club_status": "active",
+    "club_status": true,
     "data": {
         "id": 1,
         "club_name": "Seven golf Club",
