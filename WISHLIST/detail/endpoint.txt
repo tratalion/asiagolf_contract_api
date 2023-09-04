@@ -1,0 +1,2 @@
+endpoint: baseUrl/wishlist/detail
+method: GET

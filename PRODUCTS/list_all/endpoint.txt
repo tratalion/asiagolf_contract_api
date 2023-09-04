@@ -1,0 +1,2 @@
+endpoint: baseUrl/product/list_all
+method: GET

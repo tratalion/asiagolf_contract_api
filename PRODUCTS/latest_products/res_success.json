@@ -1,0 +1,14 @@
+{
+    "status": true,
+    "data": [
+        {
+            "id": 1,
+            "title": "Premium Golf Balls",
+            "image": "https://",
+            "price": 800000,
+            "promo_price": 750000,
+            "rating": "4.8",
+            "sold": 108
+        }
+    ]
+}

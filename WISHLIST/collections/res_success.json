@@ -1,0 +1,11 @@
+{
+    "status": true,
+    "data": [
+        {
+            "id": 1,
+            "title": "Semua wishlist",
+            "image": "https//",
+            "total_product": 2
+        }
+    ]
+}

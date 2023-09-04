@@ -1,0 +1,2 @@
+endpoint: baseUrl/home/exclusive_distributor
+method: GET

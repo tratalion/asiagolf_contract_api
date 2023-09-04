@@ -1,0 +1,2 @@
+endpoint: baseUrl/home/authorized_dealer
+method: GET

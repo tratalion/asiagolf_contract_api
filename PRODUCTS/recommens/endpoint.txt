@@ -1,0 +1,2 @@
+endpoint: baseUrl/product/recommens
+method: GET

@@ -1,0 +1,2 @@
+endpoint: baseUrl/wishlist/add_collection
+method: POST
