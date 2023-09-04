@@ -1,0 +1,26 @@
+{
+    "status": true,
+    "data": [
+        {
+            "id": 1,
+            "status": "pending",
+            "description": "Penarikan sedang di prosses",
+            "created_at": "2023-01-01 05:11",
+            "amount": -230000
+        },
+        {
+            "id": 2,
+            "status": "cancel",
+            "description": "Penarikan dana dibatalkan",
+            "created_at": "2023-01-01 05:11",
+            "amount": -230000
+        },
+        {
+            "id": 3,
+            "status": "success",
+            "description": "Penarikan berhasil dilakukan",
+            "created_at": "2023-01-01 05:11",
+            "amount": -230000
+        }
+    ]
+}

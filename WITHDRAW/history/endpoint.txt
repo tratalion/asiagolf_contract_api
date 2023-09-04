@@ -1,0 +1,2 @@
+endpoint: baseUrl/withdraw/history
+method: GET
