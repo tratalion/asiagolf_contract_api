@@ -1,0 +1,2 @@
+endpoint: baseUrl/club/delete_member
+method: POST

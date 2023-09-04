@@ -1,0 +1,2 @@
+endpoint: baseUrl/club/vouchers
+method: GET

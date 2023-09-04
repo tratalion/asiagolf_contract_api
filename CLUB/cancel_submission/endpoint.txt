@@ -1,0 +1,2 @@
+endpoint: baseUrl/club/cancel_submission
+method: POST

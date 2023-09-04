@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "message": "Berhasil disimpan!",
+    "data": {
+        "id": 1,
+        "club_name": "Seven golf Club",
+        "owner_name": "Wade Wilson",
+        "members": [
+            {
+                "id": 1,
+                "name": "Robert Fox",
+                "email": "gafardev@tratalion.com"
+            }
+        ]
+    }
+}
