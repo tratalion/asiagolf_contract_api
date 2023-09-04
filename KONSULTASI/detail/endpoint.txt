@@ -1,0 +1,2 @@
+endpoint: baseUrl/konsultasi/detail
+method: GET

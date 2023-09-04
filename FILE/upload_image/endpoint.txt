@@ -1,0 +1,2 @@
+endpoint: baseUrl/konsultasi/upload_image
+method: POST

@@ -1,0 +1,13 @@
+{
+    "status": true,
+    "page": 1,
+    "data": [
+        {
+            "id": 1,
+            "status": "ongoing",
+            "title": "Umum#1",
+            "last_chat": "Baik kak terimakasih",
+            "last_date": "2023-01-01 05:12"
+        }
+    ]
+}
