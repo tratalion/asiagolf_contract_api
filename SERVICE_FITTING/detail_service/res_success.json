@@ -1,0 +1,23 @@
+{
+    "status": true,
+    "data": {
+        "id": 1,
+        "title": "Regriping",
+        "description": "Lorem ipsum dolor sit amet consectetur. Urna senectus accumsan eleifend diam dignissim ac posuere porta eget. Pellentesque mi aliquet arcu malesuada nullam commodo feugiat at. Venenatis in volutpat varius diam nisl ornare.",
+        "image": "https://",
+        "price_min": 500000,
+        "price_max": 1000000,
+        "recomendation_id": 1,
+        "recomendation_product": [
+            {
+                "id": 1,
+                "title": "Premium Golf Balls",
+                "image": "https://",
+                "price": 800000,
+                "promo_price": 750000,
+                "rating": "4.8",
+                "sold": 108
+            }
+        ]
+    }
+}

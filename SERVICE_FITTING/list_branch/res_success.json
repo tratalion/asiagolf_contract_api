@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "page": 1,
+    "data": [
+        {
+            "id": 1,
+            "title": "Royale Surabaya Golf Club",
+            "address": "Blok G No.2, Jl. Bukit Darmo Golf No.74, Pradahkalikendal, Dukuhpakis, Surab",
+            "image": "https://",
+            "lat": "-127.113189",
+            "lng": "78.799890",
+            "services": [
+                {
+                    "id": 1,
+                    "title": "Reshafting",
+                    "image": "https://"
+                }
+            ]
+        }
+    ]
+}

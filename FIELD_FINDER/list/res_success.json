@@ -5,9 +5,9 @@
             "id": 1,
             "title": "Royale Surabaya golf Club",
             "address": "Blok G NO.2, Jl. bukit darmo No.74",
-            "price": "2600000",
-            "lat": "-127.99988",
-            "lng": "76.99089",
+            "price": 2600000,
+            "lat": -127.99988,
+            "lng": 76.99089,
             "images": [
                 "https://adnka.com/adkam.jpg",
                 "https://adnka.com/adkam.jpg",

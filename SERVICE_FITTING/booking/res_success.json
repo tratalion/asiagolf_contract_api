@@ -1,0 +1,15 @@
+{
+    "status": true,
+    "data": {
+        "id": 1,
+        "name": "wade Wilson",
+        "description": "Loremipsum dolor sit amet",
+        "service_name": "Regriping",
+        "delivery_type": 1,
+        "address": "jln. jalan",
+        "lat": -127.89242,
+        "lng": 75.89998,
+        "price": 1600000,
+        "delivery_fee": 50000
+    }
+}

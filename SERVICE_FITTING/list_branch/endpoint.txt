@@ -1,0 +1,2 @@
+endpoint: baseUrl/service_fitting/list_branch
+method: GET

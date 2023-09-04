@@ -1,0 +1,2 @@
+endpoint: baseUrl/service_fitting/detail_service
+method: GET
