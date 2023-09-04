@@ -1,0 +1,2 @@
+endpoint: baseUrl/profile/edit
+method: POST

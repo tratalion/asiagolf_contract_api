@@ -1,0 +1,38 @@
+{
+    "status": true,
+    "data": [
+        {
+            "id": 1,
+            "address": "Jln. jalan",
+            "label": "Rumah",
+            "note": "rumah hijau",
+            "name": "Wade Wilson",
+            "phone": "0876788667",
+            "lat": "-127.113189",
+            "lng": "78.799890",
+            "is_primary": true
+        },
+        {
+            "id": 2,
+            "address": "Jln. jalan",
+            "label": "Rumah",
+            "note": "rumah hijau",
+            "name": "Wade Wilson",
+            "phone": "0876788667",
+            "lat": "-127.113189",
+            "lng": "78.799890",
+            "is_primary": false
+        },
+        {
+            "id": 3,
+            "address": "Jln. jalan",
+            "label": "Rumah",
+            "note": "rumah hijau",
+            "name": "Wade Wilson",
+            "phone": "0876788667",
+            "lat": "-127.113189",
+            "lng": "78.799890",
+            "is_primary": false
+        }
+    ]
+}

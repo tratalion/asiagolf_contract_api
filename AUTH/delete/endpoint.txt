@@ -1,0 +1,2 @@
+endpoint: baseUrl/auth/delete
+method: POST
