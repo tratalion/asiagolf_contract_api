@@ -3,5 +3,7 @@
     "address": "Jln jalan kemana aja",
     "phone": "08782429294",
     "gender": "L",
-    "email": "gafardev@tratalion.com"
+    "email": "gafardev@tratalion.com",
+    "birth_date":"1997-01-01",
+    "image":"File(path/to/image)"
 }
