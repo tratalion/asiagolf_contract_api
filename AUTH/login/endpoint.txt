@@ -1,0 +1,2 @@
+endpoint: baseUrl/auth/login
+method: POST

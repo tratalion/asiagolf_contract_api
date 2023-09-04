@@ -1,0 +1,2 @@
+endpoint: /auth/forgot_pass
+method: POST
