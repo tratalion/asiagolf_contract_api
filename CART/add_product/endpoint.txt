@@ -1,0 +1,2 @@
+endpoint: baseUrl/cart/add_product
+method: POST

@@ -1,0 +1,2 @@
+endpoint: baseUrl/cart/delete
+method: POST

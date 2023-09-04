@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "data": [
+        {
+            "id": 1,
+            "image": "https//",
+            "title": "Premium",
+            "price": 750000,
+            "weight": 900,
+            "note": "Catatan"
+        },
+        {
+            "id": 2,
+            "image": "https//",
+            "title": "Premium",
+            "price": 750000,
+            "weight": 900,
+            "note": null
+        }
+    ]
+}

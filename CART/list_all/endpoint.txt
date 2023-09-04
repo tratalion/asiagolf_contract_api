@@ -1,0 +1,2 @@
+endpoint: baseUrl/cart/list_all
+method: GET
