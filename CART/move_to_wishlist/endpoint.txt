@@ -1,0 +1,2 @@
+endpoint: baseUrl/cart/move_wishlist
+method: POST

@@ -1,0 +1,2 @@
+endpoint: baseUrl/konsultasi/delete_image
+method: POST
